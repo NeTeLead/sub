@@ -1,0 +1,1 @@
+quirks of the NTP that you like to talk

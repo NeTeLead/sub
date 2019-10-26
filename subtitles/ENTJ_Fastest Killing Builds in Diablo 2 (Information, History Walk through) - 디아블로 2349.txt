@@ -1,0 +1,1 @@
+all resistances 20 strength 20 vitality
