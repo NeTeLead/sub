@@ -1,1 +1,0 @@
-say "what do you want in the omelet?"

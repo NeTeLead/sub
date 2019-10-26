@@ -1,1 +1,0 @@
-除了 V8 還有其它的 js 引擎，像是 FireFox 的 spider monkey

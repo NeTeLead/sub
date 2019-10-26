@@ -1,2 +1,0 @@
-It's say, it's inefficient to
-recreate the wheel if somebody

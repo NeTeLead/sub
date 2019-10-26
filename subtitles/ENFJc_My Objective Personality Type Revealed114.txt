@@ -1,1 +1,0 @@
-personality model blast is a function

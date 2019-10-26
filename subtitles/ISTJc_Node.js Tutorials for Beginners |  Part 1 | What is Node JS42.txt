@@ -1,1 +1,0 @@
-node.js 是 non-blocking，那什麼是 non-blocking？

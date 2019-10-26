@@ -1,1 +1,0 @@
-reading the head first javascript book

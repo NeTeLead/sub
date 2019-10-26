@@ -1,1 +1,0 @@
-from never having written a line of code

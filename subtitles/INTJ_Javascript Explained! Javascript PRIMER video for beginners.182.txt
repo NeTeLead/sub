@@ -1,1 +1,0 @@
-create a mobile app using angular

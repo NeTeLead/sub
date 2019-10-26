@@ -1,1 +1,0 @@
-trait will say kind right because that's

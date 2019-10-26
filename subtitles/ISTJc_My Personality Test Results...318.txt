@@ -1,2 +1,0 @@
-This trait underpins all others
-showing how confident we are

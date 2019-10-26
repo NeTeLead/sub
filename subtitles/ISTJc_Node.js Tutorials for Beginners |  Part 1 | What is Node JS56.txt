@@ -1,1 +1,0 @@
-總結說 node.js 是單線程和 non-blocking
