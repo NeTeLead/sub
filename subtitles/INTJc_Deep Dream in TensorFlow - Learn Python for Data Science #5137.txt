@@ -1,0 +1,1 @@
+So for every TensorFlow operation in our graph,

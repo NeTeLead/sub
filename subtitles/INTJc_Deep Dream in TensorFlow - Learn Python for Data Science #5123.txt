@@ -1,0 +1,1 @@
+By removing this value from our image,

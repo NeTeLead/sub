@@ -1,0 +1,1 @@
+Now we can initialize a session using that graph.

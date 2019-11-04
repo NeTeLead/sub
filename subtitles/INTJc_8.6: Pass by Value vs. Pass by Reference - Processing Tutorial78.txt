@@ -1,0 +1,1 @@
+And when it overlaps I'm going to say other dot color equals red.

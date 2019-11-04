@@ -1,0 +1,2 @@
+The computer can make moves
+in the game, just like a human player.

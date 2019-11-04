@@ -1,0 +1,1 @@
+the aspects, parameters, data of that object like x becomes 300. I'm changing the original
