@@ -1,1 +1,0 @@
-multiplies that number by two and stores it back in itself.

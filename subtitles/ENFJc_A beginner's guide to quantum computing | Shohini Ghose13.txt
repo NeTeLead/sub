@@ -1,2 +1,0 @@
-and your move will not be revealed
-to your opponent, the computer.

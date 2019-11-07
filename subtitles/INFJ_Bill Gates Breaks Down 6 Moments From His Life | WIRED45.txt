@@ -1,1 +1,0 @@
-line LCD with 32 characters across

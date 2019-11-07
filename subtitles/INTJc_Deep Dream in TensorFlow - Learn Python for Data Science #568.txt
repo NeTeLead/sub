@@ -1,1 +1,0 @@
-in TensorFlow, and then test it out on a novel image.

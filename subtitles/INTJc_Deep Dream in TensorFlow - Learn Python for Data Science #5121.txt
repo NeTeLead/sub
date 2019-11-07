@@ -1,1 +1,0 @@
-Then we'll define image net mean value of pixels

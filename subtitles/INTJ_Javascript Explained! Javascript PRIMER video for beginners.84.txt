@@ -1,1 +1,0 @@
-API which stands for application

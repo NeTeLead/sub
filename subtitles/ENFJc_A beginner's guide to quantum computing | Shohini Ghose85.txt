@@ -1,2 +1,0 @@
-with some probability of being zero
-and some probability of being one.

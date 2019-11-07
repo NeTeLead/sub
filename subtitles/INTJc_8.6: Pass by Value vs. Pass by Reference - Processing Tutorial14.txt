@@ -1,1 +1,0 @@
-okay, so this function receives a number and and

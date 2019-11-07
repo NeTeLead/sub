@@ -1,1 +1,0 @@
-on both price and sentiment data using Keras.

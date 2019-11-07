@@ -1,1 +1,0 @@
-Referencing a place in the computer's memory with the value 50 then val is

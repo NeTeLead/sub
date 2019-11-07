@@ -1,1 +1,0 @@
-we're gonna replicate Google's Deep Dream code

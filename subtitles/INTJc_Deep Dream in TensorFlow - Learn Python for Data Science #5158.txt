@@ -1,1 +1,0 @@
-We'll format it accordingly using NumPy

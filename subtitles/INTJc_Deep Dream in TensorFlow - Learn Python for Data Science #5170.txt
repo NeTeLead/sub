@@ -1,1 +1,0 @@
-and say for each octave, let's resize it using NumPy

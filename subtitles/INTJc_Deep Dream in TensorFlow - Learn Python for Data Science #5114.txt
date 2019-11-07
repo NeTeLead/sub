@@ -1,1 +1,0 @@
-Once we've opened it, we can read that graph

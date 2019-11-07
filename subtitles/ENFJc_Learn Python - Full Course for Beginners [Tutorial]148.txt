@@ -1,1 +1,0 @@
-and this should have everything we need to get started using python

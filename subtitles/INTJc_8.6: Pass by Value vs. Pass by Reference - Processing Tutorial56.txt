@@ -1,1 +1,0 @@
-I have a particle p and it is pointed to somewhere in the computer's memory.

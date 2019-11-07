@@ -1,1 +1,0 @@
-called 'input' with the size of 32 bits.

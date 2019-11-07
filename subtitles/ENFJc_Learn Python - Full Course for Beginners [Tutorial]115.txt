@@ -1,1 +1,0 @@
-we're going to be writing a bunch of code so we're going to need some you know environment of some program that we can write all that code in.

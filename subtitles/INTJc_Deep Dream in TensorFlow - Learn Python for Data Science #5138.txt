@@ -1,1 +1,0 @@
-if it's a convolutional layer, load it into our array.

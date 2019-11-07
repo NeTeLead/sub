@@ -1,2 +1,0 @@
-This one has an asterisk: "Very
-fast", when something's very fast.

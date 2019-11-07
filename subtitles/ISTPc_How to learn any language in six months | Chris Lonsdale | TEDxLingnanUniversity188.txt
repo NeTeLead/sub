@@ -1,2 +1,0 @@
-The purple bars show the scores 
-on different tests for language.

@@ -1,1 +1,0 @@
-Let's load all those layers into an array

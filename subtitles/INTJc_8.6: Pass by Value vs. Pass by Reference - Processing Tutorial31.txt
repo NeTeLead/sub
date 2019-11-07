@@ -1,1 +1,0 @@
-function you pass a copy of that value meaning in the computer's memory x

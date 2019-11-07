@@ -1,1 +1,0 @@
-gradient descent to alter weights

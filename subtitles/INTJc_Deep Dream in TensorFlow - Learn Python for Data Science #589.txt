@@ -1,1 +1,0 @@
-apply our gradient ascent to that layer repeatedly,

@@ -1,1 +1,0 @@
-Referencing another place in the computer's memory with what the value 50 gets copied in there then over here

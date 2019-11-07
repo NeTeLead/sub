@@ -1,1 +1,0 @@
-function stack is going to be the exact

@@ -1,1 +1,0 @@
-Eventually, the first two layers learned low-level features

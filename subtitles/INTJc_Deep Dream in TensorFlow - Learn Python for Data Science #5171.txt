@@ -1,1 +1,0 @@
-and add it to our array of image octaves.

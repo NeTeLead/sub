@@ -1,1 +1,0 @@
-In this video, we're gonna create a neural network

@@ -1,2 +1,0 @@
-First of all, quantum uncertainty
-could be used to create private keys

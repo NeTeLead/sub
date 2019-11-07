@@ -1,1 +1,0 @@
-I'm passing the... a reference to the actual object and p2, the reference to that object, goes into other. And now I'm changing

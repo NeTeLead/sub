@@ -1,2 +1,0 @@
-So we have designed and implemented
-some interesting new protocols

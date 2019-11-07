@@ -1,1 +1,0 @@
-pick a layer and a pre-trained network

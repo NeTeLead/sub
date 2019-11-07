@@ -1,1 +1,0 @@
-managers are generally transactional and

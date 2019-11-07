@@ -1,1 +1,0 @@
-and store it in our image variable.

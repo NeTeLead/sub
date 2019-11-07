@@ -1,1 +1,0 @@
-to blur tile boundaries over multiple iterations
