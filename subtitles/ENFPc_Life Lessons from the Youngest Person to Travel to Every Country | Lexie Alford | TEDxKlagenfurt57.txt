@@ -1,0 +1,2 @@
+to be able to read the name and the date
+on the passport stamp.

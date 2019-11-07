@@ -1,0 +1,1 @@
+a lot of syntax there's a lot of like little things that if you get wrong the program will yell at you.

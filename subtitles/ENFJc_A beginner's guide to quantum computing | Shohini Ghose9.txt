@@ -1,0 +1,1 @@
+It can choose to flip the coin or not,

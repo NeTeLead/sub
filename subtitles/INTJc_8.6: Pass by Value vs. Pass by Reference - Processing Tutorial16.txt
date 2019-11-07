@@ -1,0 +1,1 @@
+So if I say int x. Can you see that? No you can't. Let me write it a little lower. int x equals

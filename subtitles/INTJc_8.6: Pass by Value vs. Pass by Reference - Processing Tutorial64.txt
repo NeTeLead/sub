@@ -1,0 +1,1 @@
+primitive value into a function, as an argument you make a copy of it and the original variable is unaffected. When you pass an object

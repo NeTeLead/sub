@@ -1,0 +1,1 @@
+Now we can split our image into a number of octaves

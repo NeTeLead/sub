@@ -1,0 +1,1 @@
+val gets multiplied by 2. Val now equals 100, but x which is pointing to 50 is unaffected

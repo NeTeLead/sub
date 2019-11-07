@@ -1,0 +1,2 @@
+A regular computer simulates
+heads or tails of a coin as a bit,

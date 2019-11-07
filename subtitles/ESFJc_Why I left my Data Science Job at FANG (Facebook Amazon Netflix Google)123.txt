@@ -1,0 +1,1 @@
+Prediction algorithm to predict whether a user watched a video with alone in their apartment or with friends

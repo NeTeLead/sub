@@ -1,0 +1,1 @@
+string is a palindrome the types of easy

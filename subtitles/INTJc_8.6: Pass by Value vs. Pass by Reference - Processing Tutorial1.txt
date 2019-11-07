@@ -1,0 +1,1 @@
+it occurred to me while I was making that video about looking at how objects might communicate with each other. That there's a kind of
